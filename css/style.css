@@ -18,17 +18,19 @@ a{
     border-style: ridge;
     background-color: red;
     border-radius: 30px;
-    color: yellow;
-    width: 45px;
-    height: 45px;
+    color: black;
+    width: 70px;
+    height: 70px;
     text-align: center;
+    text-decoration: none;
 }
 a:hover{
     border-style: ridge;
     background-color: yellow;
     border-radius: 30px;
     color: red;
-    width: 45px;
-    height: 45px;
+    width: 70x;
+    height: 70px;
     text-align: center;
+    text-decoration: none;
 }
