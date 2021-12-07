@@ -1,0 +1,16 @@
+.body {
+    background-color: red;
+    color: yellow;
+    border-radius: 20px;
+    border-style: groove;
+    padding-left: 50px;
+    
+}
+.footer {
+    text-align: center;
+    background-color: black;
+    color: yellow;
+}
+h2 {
+    font-weight: 400;
+}
