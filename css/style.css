@@ -14,3 +14,21 @@
 h1 {
     color: black;
 }
+a{
+    border-style: ridge;
+    background-color: red;
+    border-radius: 30px;
+    color: yellow;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+}
+a:hover{
+    border-style: ridge;
+    background-color: yellow;
+    border-radius: 30px;
+    color: red;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+}
